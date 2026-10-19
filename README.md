@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=190&section=header&text=Mateo%20Salazar%20Bogota&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Systems%20Engineering%20Student%20%C2%B7%20Powered%20by%20AI%20%C2%B7%20Java%20Developer&descAlignY=60&descSize=18" alt="Mateo Salazar header" width="100%" />
 
 <a href="https://github.com/Mateosalazar543">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Systems+Engineering+student+%C2%B7+Powered+by+AI;Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;Building+CareStock%3A+pharmacy+inventory+system;Surviving+the+night+shift%2C+one+commit+at+a+time;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Systems+Engineering+student+%C2%B7+Powered+by+AI;Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;Building+CareStock%3A+pharmacy+inventory+system;Turning+complex+requirements+into+clean+code;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing animation" />
 </a>
 
 <br/>
@@ -161,6 +161,18 @@ Layers keep UI, business rules and persistence separate, so each part can be tes
 
 ## 🗺️ Roadmap
 
+```mermaid
+timeline
+    title Learning path
+    Foundations : Java and OOP
+                : PostgreSQL and JDBC
+    Architecture : MVC · SOLID · GoF patterns
+                 : Testing and CI with GitHub Actions
+    Next : Spring Boot and REST APIs
+         : Docker and cloud deployment
+         : Open source contributions
+```
+
 - [x] Build and ship **VerbQuest**
 - [x] Apply MVC, GoF patterns and transactional data access in **CareStock**
 - [ ] Complete **CareStock** with CI, automated tests and documentation
@@ -170,66 +182,19 @@ Layers keep UI, business rules and persistence separate, so each part can be tes
 
 ---
 
-## 🌙 Night Shift at the Repo
-
-> *Every developer works the night shift sometimes. Here's mine.*
-
-```text
-╔════════════════════════════════════════════════════╗
-║  🔦 NIGHT SHIFT · 12:00 AM → 6:00 AM               ║
-║  🔋 POWER LEFT: ██████████░░ 87%  (☕ + 🤖 powered)  ║
-║  📟 STATUS: all systems stable · nothing moved...   ║
-║             ...probably.                            ║
-╚════════════════════════════════════════════════════╝
-```
-
-### 📹 Security cameras
-
-| Camera | Location | Status |
-|---|---|---|
-| 📹 **CAM 01** | CareStock | 🟢 Online · in active development |
-| 📹 **CAM 02** | VerbQuest | 🟢 Online · shipped |
-| 📹 **CAM 03** | Spring Boot lab | 🟡 Loading... |
-| 📹 **CAM 04** | Docker cellar | 🔴 Offline · coming soon |
-
-### 🚪 Who's moving in the hallway?
-
-The animatronics of software: they only show up when you stop watching. These are my defenses.
-
-| Intruder | Real-life bug | Defense |
-|---|---|---|
-| 🐻 **Null Pointer Freddy** | `NullPointerException` | Validate inputs, use `Optional`, fail early |
-| 🐰 **Off-by-one Bonnie** | Index and boundary errors | Boundary tests |
-| 🐔 **Memory-leak Chica** | Unclosed connections and resources | `try-with-resources` |
-| 🦊 **Race-condition Foxy** | Concurrency and inconsistent data | Transactions, proper isolation |
-
-### 🕛 Surviving until 6 AM
-
-```mermaid
-timeline
-    title My shift, hour by hour
-    12 AM : Java and OOP foundations
-    1 AM : PostgreSQL and JDBC
-    2 AM : MVC · SOLID · GoF patterns
-    3 AM : Testing and CI with GitHub Actions
-    4 AM : Spring Boot and REST APIs
-    5 AM : Docker and cloud deployment
-    6 AM : Shift complete · ship it 🌅
-```
-
----
-
 ## 📫 Let's connect
 
 <div align="center">
 
 <a href="https://github.com/Mateosalazar543"><img src="https://img.shields.io/badge/GitHub-Mateosalazar543-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-Write_me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- Add your own links when ready, then remove the comment markers:
+<a href="https://www.linkedin.com/in/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Write_me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+-->
 
 <br/><br/>
 
-*Thanks for visiting! Survive the night. Ship the code. 🚀*
+*Thanks for visiting! Keep learning. Keep building. 🚀*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D1117&height=110&section=footer" alt="Footer wave" width="100%" />
 
