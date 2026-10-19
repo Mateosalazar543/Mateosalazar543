@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a0b16">
+  <meta name="description" content="A tiny Freddy Fazbear nose-honk Easter egg on Mateo's GitHub profile.">
+  <title>Freddy's Nose · A secret Easter egg</title>
+  <style>
+    :root {color-scheme:dark;--bg:#0a0b16;--card:#141629;--text:#f9f4ea;--muted:#a9adc9;--gold:#f9bf5a;--pink:#f19cc9;--purple:#9c86ff}
+    *{box-sizing:border-box}
+    html,body{min-height:100%;margin:0}
+    body{font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--text);display:grid;place-items:center;background:radial-gradient(ellipse at 14% 13%,#452654 0%,transparent 41%),radial-gradient(ellipse at 90% 85%,#363068 0%,transparent 42%),var(--bg);overflow-x:hidden;padding:22px}
+    body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.09;background:repeating-linear-gradient(to bottom,transparent 0px,transparent 3px,#fff 4px,#fff 5px);z-index:3}
+    main{width:min(100%,510px);text-align:center;border:1px solid #ffffff20;background:linear-gradient(157deg,#1e1a33e9,#111321f5);padding:36px 30px 28px;border-radius:30px;box-shadow:0 24px 90px #0008,0 0 70px #a76ae211;position:relative}
+    .pill{display:inline-flex;align-items:center;gap:8px;padding:7px 13px;border:1px solid #c89df740;border-radius:999px;background:#ffffff09;font-size:11px;font-weight:800;letter-spacing:.16em;color:var(--pink)}
+    .pill::before{content:"";width:7px;height:7px;border-radius:50%;background:#7de6ab;box-shadow:0 0 12px #7de6ab}
+    h1{font-size:clamp(30px,8vw,43px);line-height:1.1;letter-spacing:-.05em;margin:20px 0 10px}
+    h1 span{color:var(--gold)}
+    .subtitle{color:var(--muted);margin:0 auto 24px;max-width:350px;line-height:1.55;font-size:14px}
+    button{border:0;cursor:pointer;font:inherit}
+    .freddy-button{position:relative;width:min(72vw,278px);height:min(72vw,278px);display:grid;place-items:center;margin:0 auto 17px;background:linear-gradient(155deg,#f9f5e9,#fff);border-radius:34px;border:5px solid #ffffff28;box-shadow:0 10px 0 #0a0a17,0 20px 50px #0008,0 0 35px #ffcd6d21;transition:transform .12s ease,box-shadow .2s ease;overflow:hidden;isolation:isolate;touch-action:manipulation}
+    .freddy-button::after{content:"";position:absolute;inset:7px;border:2px dashed #a5855f47;border-radius:23px;pointer-events:none}
+    .freddy-button img{width:98%;height:98%;object-fit:contain;user-select:none;-webkit-user-drag:none;pointer-events:none}
+    .freddy-button:hover{transform:translateY(-5px) rotate(-2deg);box-shadow:0 15px 0 #0a0a17,0 26px 60px #000a,0 0 45px #ffcd6d33}
+    .freddy-button:active,.freddy-button.honking{transform:translateY(4px) scale(.96) rotate(2deg);box-shadow:0 4px 0 #0a0a17,0 15px 32px #0007,0 0 75px #f9bf5a77}
+    .freddy-button:focus-visible,.back:focus-visible{outline:3px solid var(--gold);outline-offset:5px}
+    .instruction{font-size:16px;font-weight:850;color:var(--gold);margin:14px 0 7px}
+    .hint{color:var(--muted);font-size:12px;margin:0}
+    .counter{font-size:13px;border:1px solid #ffffff20;border-radius:13px;background:#ffffff08;padding:12px 18px;display:inline-flex;gap:7px;margin:22px 0 15px}
+    .counter strong{font-variant-numeric:tabular-nums;color:var(--pink)}
+    .back{color:#f3e9ff;text-decoration:none;font-size:13px;font-weight:650;display:inline-block;padding:8px}
+    .back:hover{text-decoration:underline}
+    footer{color:#9797b7;font-size:10px;margin-top:15px;line-height:1.6}
+    @media(prefers-reduced-motion:no-preference){.freddy-button.honking{animation:bop .33s ease-in-out} @keyframes bop{0%,100%{transform:scale(1)}40%{transform:scale(.90) rotate(5deg)}70%{transform:scale(1.06) rotate(-4deg)}}}
+    @media(max-width:400px){main{padding:28px 18px 23px;border-radius:24px}.freddy-button{border-radius:26px} h1{margin-top:16px}}
+  </style>
+</head>
+<body>
+  <main>
+    <div class="pill">★ SECRET UNLOCKED</div>
+    <h1>Say hello to <span>Freddy.</span></h1>
+    <p class="subtitle">You found the hidden Easter egg in Mateo's GitHub profile. Only one thing left to do...</p>
+    <button class="freddy-button" id="freddy" type="button" aria-label="Boop Freddy's nose and play a honk" title="Boop!">
+      <img src="../assets/freddy.png" alt="Freddy Fazbear plush wearing a black top hat">
+    </button>
+    <p class="instruction" id="message" aria-live="polite">👆 BOOP THE NOSE!</p>
+    <p class="hint">Sound on 🔊 · Tap Freddy or press Enter / Space</p>
+    <div class="counter">Nose boops: <strong id="counter">0</strong> 🐻</div>
+    <div><a class="back" href="https://github.com/Mateosalazar543">← Back to Mateo's GitHub</a></div>
+    <footer>Fan-inspired Easter egg · Original horn-like sound created for this page.<br>Freddy Fazbear is a character from Five Nights at Freddy's.</footer>
+  </main>
+  <audio id="honk" src="../assets/freddy-honk.wav" preload="auto"></audio>
+  <script>
+    const btn = document.getElementById('freddy');
+    const audio = document.getElementById('honk');
+    const counter = document.getElementById('counter');
+    const message = document.getElementById('message');
+    let presses = 0;
+    btn.addEventListener('click', () => {
+      presses += 1;
+      counter.textContent = String(presses);
+      message.textContent = presses % 10 === 0 ? '🎉 SUPER BOOP!' : '🔊 HONK HONK!';
+      btn.classList.remove('honking');
+      void btn.offsetWidth;
+      btn.classList.add('honking');
+      try { audio.pause(); audio.currentTime = 0; const p=audio.play(); if (p) p.catch(()=>{message.textContent='🔈 Your browser blocked audio. Check sound permissions.';}); }
+      catch(e){ message.textContent='🔈 Audio unavailable. Check the sound file.'; }
+    });
+    btn.addEventListener('animationend', ()=>btn.classList.remove('honking'));
+  </script>
+</body>
+</html>
