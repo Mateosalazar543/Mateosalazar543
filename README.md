@@ -2,11 +2,17 @@
 
 <div align="center">
 
-# Hi, I'm Mateo Salazar! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=190&section=header&text=Mateo%20Salazar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Java%20Developer&descAlignY=60&descSize=18" alt="Mateo Salazar header" width="100%" />
 
-### Software Engineering Student · Java Developer · Building things that matter
+<a href="https://github.com/Mateosalazar543">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;Building+CareStock%3A+pharmacy+inventory+system;Turning+complex+requirements+into+clean+code;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing animation" />
+</a>
 
-*Bogotá, Colombia 🇨🇴 · Pontificia Universidad Javeriana*
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Mateosalazar543&label=Profile%20views&color=8B5CF6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Mateosalazar543?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/Universidad-Javeriana-0D1117?style=for-the-badge)
 
 <a href="https://github.com/Mateosalazar543?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 <a href="https://github.com/Mateosalazar543?tab=followers"><img src="https://img.shields.io/badge/Follow_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
@@ -15,16 +21,24 @@
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 About me
 
-I'm a software engineering student interested in **backend development, software architecture, and building reliable applications**.
+I'm a software engineering student at **Pontificia Universidad Javeriana** (Bogotá 🇨🇴) interested in **backend development, software architecture and building reliable applications**.
 
-- 🏥 Currently building **CareStock**, a pharmacy inventory management system.
-- 🎮 Created **VerbQuest**, an interactive game for learning English irregular verbs.
-- 🧠 Learning and applying **SOLID, MVC, GoF design patterns, transactional data access, and software testing**.
-- 🔧 I enjoy turning complex requirements into code that's maintainable and practical.
+| | |
+|---|---|
+| 🏥 **Building** | **CareStock**, a multi-branch pharmacy inventory management system |
+| 🎮 **Created** | **VerbQuest**, a game to learn English irregular verbs |
+| 🧠 **Learning** | SOLID · MVC · GoF design patterns · transactional data access · testing |
+| 🎯 **Goal** | Turn complex requirements into code that's maintainable and practical |
+| 💬 **Ask me about** | Java, JavaFX, PostgreSQL, design patterns, clean architecture |
 
-### 🛠️ My tech stack
+> [!TIP]
+> I like projects where design decisions matter: consistency, traceability and code that someone else can pick up and understand.
+
+---
+
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -47,7 +61,9 @@ I'm a software engineering student interested in **backend development, software
 
 </div>
 
-### 🚀 Featured projects
+---
+
+## 🚀 Featured projects
 
 <table>
 <tr>
@@ -80,14 +96,86 @@ A gamified experience to practice English irregular verbs, with adaptive difficu
 </tr>
 </table>
 
-### 🧩 Things I care about
+<details>
+<summary><b>🏗️ CareStock: architecture at a glance</b> (click to expand)</summary>
 
-```text
-Clean code      ██████████  readable and maintainable
-Architecture    ██████████  purposeful design decisions
-Databases       ██████████  consistency and reliability
-UX              ██████████  software people enjoy using
+<br/>
+
+```mermaid
+flowchart LR
+    A[JavaFX View] --> B[Controller]
+    B --> C[Services / Business logic]
+    C --> D[Data access · JDBC]
+    D --> E[(PostgreSQL · Neon)]
+    C -. cache .-> F[(In-memory cache)]
+    G[GitHub Actions] -. build & tests .-> B
 ```
+
+Layers keep UI, business rules and persistence separate, so each part can be tested and changed on its own.
+
+</details>
+
+---
+
+## 🧩 Engineering principles
+
+| Principle | What it means in practice |
+|---|---|
+| 🧼 **Clean code** | Readable names, small functions, no surprises |
+| 🏛️ **Purposeful architecture** | Patterns used because they solve a problem, not for decoration |
+| 🗄️ **Reliable data** | Transactions, constraints and traceable changes |
+| 🧪 **Tested** | Automated tests as a safety net for refactoring |
+| 🎨 **Good UX** | Software people actually enjoy using |
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&theme=default&hide_border=true&title_color=6D28D9&icon_color=6D28D9&include_all_commits=true" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&theme=default&hide_border=true&title_color=6D28D9" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&theme=default&hide_border=true&ring=6D28D9&fire=6D28D9" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Mateosalazar543&theme=tokyonight&hide_border=true" height="170" />
+</picture>
+
+</div>
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Build and ship **VerbQuest**
+- [x] Apply MVC, GoF patterns and transactional data access in **CareStock**
+- [ ] Complete **CareStock** with CI, automated tests and documentation
+- [ ] Learn **Spring Boot** and build a REST API
+- [ ] Explore **Docker** and cloud deployment
+- [ ] Contribute to open source
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+<a href="https://github.com/Mateosalazar543"><img src="https://img.shields.io/badge/GitHub-Mateosalazar543-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-Write_me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
@@ -105,8 +193,10 @@ UX              ██████████  software people enjoy using
 
 <sub>Interactive Easter egg powered by GitHub Pages. No JavaScript runs inside this README itself.</sub>
 
----
+<br/><br/>
 
 *Thanks for visiting! Keep learning. Keep building. 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D1117&height=110&section=footer" alt="Footer wave" width="100%" />
 
 </div>
