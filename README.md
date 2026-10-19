@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=190&section=header&text=Mateo%20Salazar%20Bogota&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Systems%20Engineering%20Student%20%C2%B7%20Powered%20by%20AI%20%C2%B7%20Java%20Developer&descAlignY=60&descSize=18" alt="Mateo Salazar header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=170&section=header&text=Mateo%20Salazar%20Bogota&fontColor=ffffff&fontSize=60&fontAlignY=50&animation=fadeIn" alt="Mateo Salazar Bogota" width="100%" />
+
+**Systems Engineering Student · Powered by AI · Java Developer**
 
 <a href="https://github.com/Mateosalazar543">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Systems+Engineering+student+%C2%B7+Powered+by+AI;Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;Building+CareStock%3A+pharmacy+inventory+system;Turning+complex+requirements+into+clean+code;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&height=40&lines=Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;Building+CareStock%3A+pharmacy+inventory;Turning+complex+requirements+into+clean+code;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Backend, architecture and reliable software" />
 </a>
 
-<br/>
-
-![Followers](https://img.shields.io/github/followers/Mateosalazar543?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117)
-![University](https://img.shields.io/badge/Pontificia_Universidad_Javeriana-0D1117?style=for-the-badge)
-![AI](https://img.shields.io/badge/Powered_by-AI-8B5CF6?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Mateosalazar543?style=flat-square&logo=github&color=0D1117&labelColor=0D1117)
+![University](https://img.shields.io/badge/Pontificia_Universidad_Javeriana-0D1117?style=flat-square)
+![AI](https://img.shields.io/badge/Powered_by-AI-8B5CF6?style=flat-square)
 
 <a href="https://github.com/Mateosalazar543?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 <a href="https://github.com/Mateosalazar543?tab=followers"><img src="https://img.shields.io/badge/Follow_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
@@ -23,15 +23,17 @@
 
 ## 👨‍💻 About me
 
-I'm a **Systems Engineering student** at **Pontificia Universidad Javeriana** (Bogotá 🇨🇴), **powered by artificial intelligence**: I use AI as a copilot to learn faster, build more and ship better, while still understanding the design decisions behind every line. I'm interested in **backend development, software architecture and building reliable applications**.
+I'm a **Systems Engineering student** at **Pontificia Universidad Javeriana** (Bogotá 🇨🇴), **powered by artificial intelligence**. I use AI as a copilot to learn faster, build more and ship better, while still understanding the design decisions behind every line.
+
+I'm interested in **backend development, software architecture and building reliable applications**.
 
 | | |
 |---|---|
 | 🏥 **Building** | **CareStock**, a multi-branch pharmacy inventory management system |
 | 🎮 **Created** | **VerbQuest**, a game to learn English irregular verbs |
 | 🧠 **Learning** | SOLID · MVC · GoF design patterns · transactional data access · testing |
-| 🤖 **Powered by** | AI-assisted learning and development: faster iteration, deeper understanding |
-| 🎯 **Goal** | Turn complex requirements into code that's maintainable and practical |
+| 🤖 **Powered by** | AI-assisted learning and development |
+| 🎯 **Goal** | Turn complex requirements into maintainable, practical code |
 | 💬 **Ask me about** | Java, JavaFX, PostgreSQL, design patterns, clean architecture |
 
 > [!TIP]
@@ -43,23 +45,19 @@ I'm a **Systems Engineering student** at **Pontificia Universidad Javeriana** (B
 
 <div align="center">
 
-**Languages**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,js,cpp,html,css,postgres,maven,git,githubactions&theme=dark&perline=9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,js,cpp,html,css,postgres,maven,git,githubactions&theme=light&perline=9" />
+  <img alt="Java, JavaScript, C++, HTML, CSS, PostgreSQL, Maven, Git, GitHub Actions" src="https://skillicons.dev/icons?i=java,js,cpp,html,css,postgres,maven,git,githubactions&theme=dark&perline=9" />
+</picture>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<sub>Java · JavaScript · C++ · HTML · CSS · PostgreSQL · Maven · Git · GitHub Actions</sub>
 
-**Tools & technologies**
+<br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=0D1117)
-![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Development-8B5CF6?style=for-the-badge)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=0D1117)
+![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Development-8B5CF6?style=flat-square)
 
 </div>
 
@@ -67,55 +65,45 @@ I'm a **Systems Engineering student** at **Pontificia Universidad Javeriana** (B
 
 ## 🚀 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 [CareStock](https://github.com/puj-course/FIS_2630_1204_G1)
+### 🏥 [CareStock](https://github.com/puj-course/FIS_2630_1204_G1)
 
 Pharmacy inventory management with multi-branch segregation, session-aware operations, inventory traceability and a JavaFX interface.
 
-**Stack:** Java · JavaFX · PostgreSQL · JDBC · Maven
-
-**Engineering:** MVC · GoF patterns · transactions · caching · automated tests
+| | |
+|---|---|
+| **Stack** | Java · JavaFX · PostgreSQL · JDBC · Maven |
+| **Engineering** | MVC · GoF patterns · transactions · caching · automated tests |
 
 <a href="https://github.com/puj-course/FIS_2630_1204_G1">View project →</a>
 
-</td>
-<td width="50%" valign="top">
-
-#### 🎮 [VerbQuest](https://github.com/Mateosalazar543/VerbQuest)
-
-A gamified experience to practice English irregular verbs, with adaptive difficulty and responsive design.
-
-**Stack:** HTML · CSS · JavaScript
-
-**Highlights:** adaptive quizzes · mobile-first UI · interactive learning
-
-<a href="https://github.com/Mateosalazar543/VerbQuest">View project →</a>
-
-</td>
-</tr>
-</table>
-
 <details>
-<summary><b>🏗️ CareStock: architecture at a glance</b> (click to expand)</summary>
+<summary><b>🏗️ Architecture at a glance</b> (click to expand)</summary>
 
 <br/>
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[JavaFX View] --> B[Controller]
     B --> C[Services / Business logic]
     C --> D[Data access · JDBC]
     D --> E[(PostgreSQL · Neon)]
     C -. cache .-> F[(In-memory cache)]
-    G[GitHub Actions] -. build & tests .-> B
 ```
 
 Layers keep UI, business rules and persistence separate, so each part can be tested and changed on its own.
 
 </details>
+
+### 🎮 [VerbQuest](https://github.com/Mateosalazar543/VerbQuest)
+
+A gamified experience to practice English irregular verbs, with adaptive difficulty and responsive design.
+
+| | |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Highlights** | Adaptive quizzes · mobile-first UI · interactive learning |
+
+<a href="https://github.com/Mateosalazar543/VerbQuest">View project →</a>
 
 ---
 
@@ -139,12 +127,12 @@ Layers keep UI, business rules and persistence separate, so each part can be tes
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&include_all_commits=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&theme=default&hide_border=true&title_color=6D28D9&icon_color=6D28D9&include_all_commits=true" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&theme=default&hide_border=true&title_color=6D28D9" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&theme=tokyonight&hide_border=true" width="420" />
 </picture>
 
 <br/>
@@ -152,7 +140,7 @@ Layers keep UI, business rules and persistence separate, so each part can be tes
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&theme=default&hide_border=true&ring=6D28D9&fire=6D28D9" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Mateosalazar543&theme=tokyonight&hide_border=true" height="170" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Mateosalazar543&theme=tokyonight&hide_border=true" width="420" />
 </picture>
 
 </div>
@@ -161,24 +149,14 @@ Layers keep UI, business rules and persistence separate, so each part can be tes
 
 ## 🗺️ Roadmap
 
-```mermaid
-timeline
-    title Learning path
-    Foundations : Java and OOP
-                : PostgreSQL and JDBC
-    Architecture : MVC · SOLID · GoF patterns
-                 : Testing and CI with GitHub Actions
-    Next : Spring Boot and REST APIs
-         : Docker and cloud deployment
-         : Open source contributions
-```
-
-- [x] Build and ship **VerbQuest**
-- [x] Apply MVC, GoF patterns and transactional data access in **CareStock**
-- [ ] Complete **CareStock** with CI, automated tests and documentation
-- [ ] Learn **Spring Boot** and build a REST API
-- [ ] Explore **Docker** and cloud deployment
-- [ ] Contribute to open source
+| Status | Goal |
+|---|---|
+| ✅ **Done** | Build and ship **VerbQuest** |
+| ✅ **Done** | Apply MVC, GoF patterns and transactional data access in **CareStock** |
+| 🔨 **In progress** | Complete **CareStock** with CI, automated tests and documentation |
+| 🔜 **Next** | Learn **Spring Boot** and build a REST API |
+| 🔜 **Next** | Explore **Docker** and cloud deployment |
+| 🔜 **Next** | Contribute to open source |
 
 ---
 
@@ -196,6 +174,6 @@ timeline
 
 *Thanks for visiting! Keep learning. Keep building. 🚀*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D1117&height=110&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D1117&height=90&section=footer" alt="" width="100%" />
 
 </div>
