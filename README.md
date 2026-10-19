@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=190&section=header&text=Mateo%20Salazar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Systems%20Engineering%20Student%20%C2%B7%20Powered%20by%20AI%20%C2%B7%20Java%20Developer&descAlignY=60&descSize=18" alt="Mateo Salazar header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=190&section=header&text=Mateo%20Salazar%20Bogota&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Systems%20Engineering%20Student%20%C2%B7%20Powered%20by%20AI%20%C2%B7%20Java%20Developer&descAlignY=60&descSize=18" alt="Mateo Salazar header" width="100%" />
 
 <a href="https://github.com/Mateosalazar543">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Systems+Engineering+student+%C2%B7+Powered+by+AI;Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;Building+CareStock%3A+pharmacy+inventory+system;Surviving+the+night+shift%2C+one+commit+at+a+time;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing animation" />
