@@ -61,28 +61,42 @@ class Mateo implements SystemsEngineer {
 > I like projects where design decisions matter: consistency, traceability and code that someone else can pick up and understand.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
-
 ## 🛠️ Tech stack
 
 <div align="center">
 
+**Languages**
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,js,cpp,html,css,postgres,maven,git,githubactions&theme=dark&perline=9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,js,cpp,html,css,postgres,maven,git,githubactions&theme=light&perline=9" />
-  <img alt="Java, JavaScript, C++, HTML, CSS, PostgreSQL, Maven, Git, GitHub Actions" src="https://skillicons.dev/icons?i=java,js,cpp,html,css,postgres,maven,git,githubactions&theme=dark&perline=9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=dark&perline=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=light&perline=6" />
+  <img alt="Java, C, C++, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=dark&perline=6" />
 </picture>
 
-<sub>Java · JavaScript · C++ · HTML · CSS · PostgreSQL · Maven · Git · GitHub Actions</sub>
+**Backend & Persistence**
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres&theme=light" />
+  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+</picture>
 
 ![JavaFX](https://img.shields.io/badge/JavaFX-1D4ED8?style=flat-square&logo=openjdk&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=0D1117)
-![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Development-38BDF8?style=flat-square&logoColor=0D1117)
+![JDBC](https://img.shields.io/badge/JDBC-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8)
+![Neon](https://img.shields.io/badge/Neon_Postgres-0D1117?style=flat-square&logo=postgresql&logoColor=38BDF8)
+
+**Tools & DevOps**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=maven,git,githubactions,docker,linux&theme=dark&perline=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=maven,git,githubactions,docker,linux&theme=light&perline=5" />
+  <img alt="Maven, Git, GitHub Actions, Docker, Linux" src="https://skillicons.dev/icons?i=maven,git,githubactions,docker,linux&theme=dark&perline=5" />
+</picture>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
+
 
 ## 🚀 Featured projects
 
