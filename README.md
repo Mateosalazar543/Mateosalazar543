@@ -4,10 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1D4ED8,100:38BDF8&height=170&section=header&text=Mateo%20Salazar%20Bogota&fontColor=ffffff&fontSize=60&fontAlignY=50&animation=fadeIn" alt="Mateo Salazar Bogota" width="100%" />
 
-**Systems Engineering Student · Powered by AI · Java Developer**
+**Systems Engineering Student · Java & JavaFX Developer · AI-assisted Engineering**
 
 <a href="https://github.com/Mateosalazar543">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=520&height=40&lines=Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;Building+CareStock%3A+pharmacy+inventory;Turning+complex+requirements+into+clean+code;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Backend, architecture and reliable software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=520&height=40&lines=Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;CareStock%3A+academic+milestone+completed;Java+21+%C2%B7+Testing+%C2%B7+DevOps;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Backend, architecture and reliable software" />
 </a>
 
 ![Followers](https://img.shields.io/github/followers/Mateosalazar543?style=flat-square&logo=github&color=1D4ED8&labelColor=0D1117)
@@ -23,18 +23,20 @@
 
 ## 👨‍💻 About me
 
-I'm a **Systems Engineering student** at **Pontificia Universidad Javeriana** (Bogotá 🇨🇴), **powered by artificial intelligence**. I use AI as a copilot to learn faster, build more and ship better, while still understanding the design decisions behind every line.
+I'm a **Systems Engineering student** at **Pontificia Universidad Javeriana** (Bogotá 🇨🇴), focused on **backend development, software architecture, software quality and DevOps**.
 
-I'm interested in **backend development, software architecture and building reliable applications**.
+In **November 2026**, my team and I completed the academic development milestone of **CareStock**, a pharmacy inventory desktop application built with Java 21, JavaFX 21 and PostgreSQL. I contributed to its architecture, implementation, testing and delivery automation.
+
+I use **AI as a development copilot**, while reviewing its output, investigating failures and taking responsibility for the technical decisions I make.
 
 | | |
 |---|---|
-| 🏥 **Building** | **CareStock**, a multi-branch pharmacy inventory management system |
-| 🎮 **Created** | **VerbQuest**, a game to learn English irregular verbs |
-| 🧠 **Learning** | SOLID · MVC · GoF design patterns · transactional data access · testing |
-| 🤖 **Powered by** | AI-assisted learning and development |
-| 🎯 **Goal** | Turn complex requirements into maintainable, practical code |
-| 💬 **Ask me about** | Java, JavaFX, PostgreSQL, design patterns, clean architecture |
+| 🏥 **Completed academic milestone** | **CareStock** — multi-pharmacy inventory management, automated tests and DevOps |
+| 🐳 **Published** | CareStock Docker image: `v1.0.2` and `stable` |
+| 🎮 **Created** | **VerbQuest**, a game for learning English irregular verbs |
+| 🧠 **Exploring next** | Spring Boot · REST APIs · cloud deployment |
+| 🤖 **My AI approach** | AI-assisted development with human review and verification |
+| 💬 **Ask me about** | Java, JavaFX, PostgreSQL, JUnit, GitHub Actions, Docker and software architecture |
 
 <details>
 <summary><b>☕ Prefer code? Here's my bio in Java</b> (click to expand)</summary>
@@ -58,7 +60,7 @@ class Mateo implements SystemsEngineer {
 </details>
 
 > [!NOTE]
-> I like projects where design decisions matter: consistency, traceability and code that someone else can pick up and understand.
+> I value reproducible builds, traceable changes, meaningful tests and design decisions that make software easier to maintain. Shipping a university project is a milestone; building production-ready software is a separate challenge.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 ## 🛠️ Tech stack
@@ -84,6 +86,14 @@ class Mateo implements SystemsEngineer {
 ![JavaFX](https://img.shields.io/badge/JavaFX-1D4ED8?style=flat-square&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8)
 ![Neon](https://img.shields.io/badge/Neon_Postgres-0D1117?style=flat-square&logo=postgresql&logoColor=38BDF8)
+![HikariCP](https://img.shields.io/badge/HikariCP-1D4ED8?style=flat-square&logoColor=white)
+
+**Testing & Quality**
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-0D1117?style=flat-square&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-38BDF8?style=flat-square&logoColor=0D1117)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-1D4ED8?style=flat-square&logo=sonarcloud&logoColor=white)
 
 **Tools & DevOps**
 
@@ -102,14 +112,30 @@ class Mateo implements SystemsEngineer {
 
 ### 🏥 [CareStock](https://github.com/puj-course/FIS_2630_1204_G1)
 
-Pharmacy inventory management with multi-branch segregation, session-aware operations, inventory traceability and a JavaFX interface.
+![Project](https://img.shields.io/badge/Academic_milestone-Completed-22C55E?style=flat-square&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-21-1D4ED8?style=flat-square&labelColor=0D1117)
+![JavaFX](https://img.shields.io/badge/JavaFX-21-38BDF8?style=flat-square&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-v1.0.2-2563EB?style=flat-square&logo=docker&logoColor=white)
 
-| | |
+**CareStock** is a team-developed desktop application for pharmacy inventory management. It combines **multi-pharmacy data segregation**, role-aware sessions and traceability across medicines, hygiene products and maternity products.
+
+| Area | What we built |
 |---|---|
-| **Stack** | Java · JavaFX · PostgreSQL · JDBC · Maven |
-| **Engineering** | MVC · GoF patterns · transactions · caching · automated tests |
+| **Core application** | Product catalog, inventory and lot management, stock movements, alerts and replenishment workflows |
+| **Architecture** | Layered JavaFX application with MVC-oriented separation; Factory Method, Facade, Proxy and Template Method patterns; C4/UML documentation |
+| **Data & security** | PostgreSQL 16 on Neon, JDBC, HikariCP, BCrypt authentication and pharmacy-scoped queries |
+| **Testing** | JUnit 5, Mockito, Maven Surefire and JaCoCo; over 1,200 test executions reported in the final local verification |
+| **Code quality** | SonarCloud quality analysis, a pre-PR coverage check, and a custom Java source analyzer for LOC, cyclomatic complexity and nesting depth |
+| **Automation** | GitHub Actions for CI, packaging, SQL integration tests on isolated PostgreSQL 16, Docker validation and Telegram notifications |
+| **Distribution** | Versioned Linux/amd64 Docker image published to Docker Hub (`v1.0.2`, `stable`) |
+| **Project status** | **Academic milestone completed — November 2026.** Windows installer workflow remains to be fully validated; not certified for production healthcare use |
 
-<a href="https://github.com/puj-course/FIS_2630_1204_G1">View project →</a>
+<p>
+  <a href="https://github.com/puj-course/FIS_2630_1204_G1"><img src="https://img.shields.io/badge/Source_code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="CareStock source code" /></a>
+  <a href="https://hub.docker.com/r/mateosalazarb/carestock"><img src="https://img.shields.io/badge/Docker_Hub-2563EB?style=for-the-badge&logo=docker&logoColor=white" alt="CareStock Docker Hub repository" /></a>
+</p>
+
+> **Engineering takeaway:** I learned how to diagnose failing pipelines, improve test coverage, inspect static-analysis findings and deliver reproducible application builds—not just how to write features.
 
 <details>
 <summary><b>🏗️ Architecture at a glance</b> (click to expand)</summary>
@@ -129,7 +155,7 @@ flowchart TB
     classDef data fill:#0F172A,stroke:#38BDF8,color:#ffffff
 ```
 
-Layers keep UI, business rules and persistence separate, so each part can be tested and changed on its own.
+The UI, controllers, business logic and JDBC persistence run in the same Java desktop application; PostgreSQL is an external data store. The cache helps optimize inventory queries. **CareStock is not a separately deployed REST backend.**
 
 </details>
 
@@ -153,7 +179,8 @@ A gamified experience to practice English irregular verbs, with adaptive difficu
 | 🧼 **Clean code** | Readable names, small functions, no surprises |
 | 🏛️ **Purposeful architecture** | Patterns used because they solve a problem, not for decoration |
 | 🗄️ **Reliable data** | Transactions, constraints and traceable changes |
-| 🧪 **Tested** | Automated tests as a safety net for refactoring |
+| 🧪 **Evidence-based testing** | Unit and integration tests, coverage reports and reproducible validation |
+| 🔄 **Continuous improvement** | CI checks, static analysis and actionable quality reports |
 | 🤖 **AI with judgment** | AI speeds me up; I review, understand and own every decision |
 | 🎨 **Good UX** | Software people actually enjoy using |
 
@@ -188,16 +215,20 @@ A gamified experience to practice English irregular verbs, with adaptive difficu
 
 ## 🗺️ Roadmap
 
-`▰▰▱▱▱▱` **2 of 6 goals completed**
+`▰▰▰▰▱▱▱▱` **4 of 8 milestones completed**
 
-| Status | Goal |
+| Status | Milestone |
 |---|---|
 | ✅ **Done** | Build and ship **VerbQuest** |
-| ✅ **Done** | Apply MVC, GoF patterns and transactional data access in **CareStock** |
-| 🔨 **In progress** | Complete **CareStock** with CI, automated tests and documentation |
-| 🔜 **Next** | Learn **Spring Boot** and build a REST API |
-| 🔜 **Next** | Explore **Docker** and cloud deployment |
+| ✅ **Done** | Apply layered architecture, GoF patterns and transactional data access in **CareStock** |
+| ✅ **Done** | Complete the **CareStock academic milestone** with automated testing, CI, quality analysis and documentation |
+| ✅ **Done** | Containerize CareStock and publish a versioned image to **Docker Hub** |
+| 🔧 **Next** | Finish validating the native **Windows installer** workflow |
+| 🔜 **Next** | Learn **Spring Boot** and design a REST API |
+| 🔜 **Next** | Explore cloud deployment and operational monitoring |
 | 🔜 **Next** | Contribute to open source |
+
+> Academic completion is a milestone, not the end of the product's evolution.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
