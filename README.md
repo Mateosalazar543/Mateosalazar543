@@ -17,6 +17,7 @@
 ![Pontificia Universidad Javeriana](https://img.shields.io/badge/Pontificia_Universidad_Javeriana-1D4ED8?style=flat-square&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/Bogot%C3%A1%2C_Colombia-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/Mateosalazar543?style=flat-square&logo=github&logoColor=FFFFFF&color=1D4ED8&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Mateosalazar543&label=Profile+Views&color=1D4ED8&style=flat-square)
 ![Workflow](https://img.shields.io/badge/AI--Assisted_Engineering-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117)
 
 <br/>
