@@ -2,101 +2,110 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1D4ED8,100:38BDF8&height=170&section=header&text=Mateo%20Salazar%20Bogota&fontColor=ffffff&fontSize=60&fontAlignY=50&animation=fadeIn" alt="Mateo Salazar Bogota" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1D4ED8,100:38BDF8&height=190&section=header&text=Mateo%20Salazar%20Bogot%C3%A1&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Systems%20Engineering%20%C2%B7%20Backend%20%26%20Software%20Architecture&descColor=E2E8F0&descSize=17&descAlignY=66&animation=fadeIn" alt="Mateo Salazar Bogotá — Systems Engineering, Backend & Software Architecture" width="100%" />
 
-**Systems Engineering Student · Java & JavaFX Developer · AI-assisted Engineering**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=540&height=36&lines=Backend+Systems+%C2%B7+Layered+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Academic+Milestone+Completed+(Java+21);CORPUS%3A+Bilingual+Terminology+Search+System+(In+Progress);Bogot%C3%A1%2C+Colombia+%C2%B7+Pontificia+Universidad+Javeriana" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=1D4ED8&center=true&vCenter=true&width=540&height=36&lines=Backend+Systems+%C2%B7+Layered+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Academic+Milestone+Completed+(Java+21);CORPUS%3A+Bilingual+Terminology+Search+System+(In+Progress);Bogot%C3%A1%2C+Colombia+%C2%B7+Pontificia+Universidad+Javeriana" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=540&height=36&lines=Backend+Systems+%C2%B7+Layered+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Academic+Milestone+Completed+(Java+21);CORPUS%3A+Bilingual+Terminology+Search+System+(In+Progress);Bogot%C3%A1%2C+Colombia+%C2%B7+Pontificia+Universidad+Javeriana" alt="Technical focus areas" />
+</picture>
 
-<a href="https://github.com/Mateosalazar543">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=520&height=40&lines=Backend+%C2%B7+Architecture+%C2%B7+Reliable+software;CareStock%3A+academic+milestone+completed;Java+21+%C2%B7+Testing+%C2%B7+DevOps;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Backend, architecture and reliable software" />
-</a>
+<br/>
 
-![Followers](https://img.shields.io/github/followers/Mateosalazar543?style=flat-square&logo=github&color=1D4ED8&labelColor=0D1117)
-![University](https://img.shields.io/badge/Pontificia_Universidad_Javeriana-1D4ED8?style=flat-square&labelColor=0D1117)
-![AI](https://img.shields.io/badge/Powered_by-AI-38BDF8?style=flat-square&labelColor=0D1117)
+![Pontificia Universidad Javeriana](https://img.shields.io/badge/Pontificia_Universidad_Javeriana-1D4ED8?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Bogot%C3%A1%2C_Colombia-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/Mateosalazar543?style=flat-square&logo=github&logoColor=FFFFFF&color=1D4ED8&labelColor=0D1117)
+![Workflow](https://img.shields.io/badge/AI--Assisted_Engineering-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117)
 
-<a href="https://github.com/Mateosalazar543?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
-<a href="https://github.com/Mateosalazar543?tab=followers"><img src="https://img.shields.io/badge/Follow_on_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+<br/>
+
+<!-- Quick Navigation Bar -->
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge" alt="About" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-1D4ED8?style=for-the-badge" alt="Tech Stack" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge" alt="Projects" /></a>
+<a href="#-engineering-principles"><img src="https://img.shields.io/badge/Principles-1D4ED8?style=for-the-badge" alt="Principles" /></a>
+<a href="#-github-metrics"><img src="https://img.shields.io/badge/Metrics-0D1117?style=for-the-badge" alt="Metrics" /></a>
+<a href="#-roadmap"><img src="https://img.shields.io/badge/Roadmap-1D4ED8?style=for-the-badge" alt="Roadmap" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/Connect-0D1117?style=for-the-badge" alt="Connect" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
+<br/>
 
-## 👨‍💻 About me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
+</picture>
 
-I'm a **Systems Engineering student** at **Pontificia Universidad Javeriana** (Bogotá 🇨🇴), focused on **backend development, software architecture, software quality and DevOps**.
+## 🏛️ About Me
 
-In **November 2026**, my team and I completed the academic development milestone of **CareStock**, a pharmacy inventory desktop application built with Java 21, JavaFX 21 and PostgreSQL. I contributed to its architecture, implementation, testing and delivery automation.
+I am a **Systems Engineering student** at **Pontificia Universidad Javeriana** (Bogotá, Colombia), focused on **backend engineering, layered software architecture, relational data integrity, and CI/CD automation**.
 
-I use **AI as a development copilot**, while reviewing its output, investigating failures and taking responsibility for the technical decisions I make.
+In **November 2026**, my team and I completed the academic milestone for **CareStock**, a multi-pharmacy inventory desktop application built with **Java 21, JavaFX 21, and PostgreSQL 16**, where I contributed across system architecture, core implementation, automated testing, and containerized delivery. Currently, I am building **CORPUS**, a bilingual (`EN ↔ ES`) environmental terminology search system and browser lookup tool.
 
-| | |
-|---|---|
-| 🏥 **Completed academic milestone** | **CareStock** — multi-pharmacy inventory management, automated tests and DevOps |
-| 🐳 **Published** | CareStock Docker image: `v1.0.2` and `stable` |
-| 🎮 **Created** | **VerbQuest**, a game for learning English irregular verbs |
-| 🧠 **Exploring next** | Spring Boot · REST APIs · cloud deployment |
-| 🤖 **My AI approach** | AI-assisted development with human review and verification |
-| 💬 **Ask me about** | Java, JavaFX, PostgreSQL, JUnit, GitHub Actions, Docker and software architecture |
+I integrate **AI as an engineering copilot** to accelerate prototyping and analysis while maintaining strict human code review, empirical verification, and full ownership of architectural decisions.
 
-<details>
-<summary><b>☕ Prefer code? Here's my bio in Java</b> (click to expand)</summary>
-
-```java
-class Mateo implements SystemsEngineer {
-
-  String city    = "Bogotá, Colombia";
-  String uni     = "Javeriana";
-  String[] focus = {"Backend",
-                    "Architecture",
-                    "Reliable data"};
-  boolean poweredByAI = true;
-
-  void build() {
-    learn(); design(); test(); ship();
-  }
-}
-```
-
-</details>
+| Focus Area | Current Scope |
+| :--- | :--- |
+| **Completed Milestone** | **CareStock** — Multi-pharmacy inventory management, automated test suite, static analysis, and Docker delivery |
+| **Active Development** | **CORPUS** — Bilingual (`EN ↔ ES`) environmental terminology search engine and browser assistant |
+| **Published Artifacts** | CareStock Linux/amd64 container images (`v1.0.2` and `stable`) on Docker Hub |
+| **Web Application** | **VerbQuest** — Responsive web platform for practicing English irregular verbs |
+| **Next Technical Focus** | Spring Boot · RESTful API design · Cloud deployment and observability |
+| **Core Stack** | Java 21, JavaFX, PostgreSQL, JDBC, JUnit 5, Mockito, GitHub Actions, Docker |
 
 > [!NOTE]
-> I value reproducible builds, traceable changes, meaningful tests and design decisions that make software easier to maintain. Shipping a university project is a milestone; building production-ready software is a separate challenge.
+> Reproducible builds, traceable schema changes, automated quality gates, and clear architectural boundaries matter more than shipping unverified code. Completing an academic milestone is a baseline; hardening software for production is a distinct engineering discipline.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
-## 🛠️ Tech stack
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
+</picture>
+
+## ⚙️ Tech Stack
 
 <div align="center">
 
-**Languages**
-
+#### Languages
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=dark&perline=6" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=light&perline=6" />
   <img alt="Java, C, C++, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css&theme=dark&perline=6" />
 </picture>
 
-**Backend & Persistence**
+<br/><br/>
 
+#### Backend & Data Persistence
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres&theme=light" />
   <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
 </picture>
 
-![JavaFX](https://img.shields.io/badge/JavaFX-1D4ED8?style=flat-square&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-0D1117?style=flat-square&labelColor=0D1117&color=38BDF8)
-![Neon](https://img.shields.io/badge/Neon_Postgres-0D1117?style=flat-square&logo=postgresql&logoColor=38BDF8)
-![HikariCP](https://img.shields.io/badge/HikariCP-1D4ED8?style=flat-square&logoColor=white)
+<br/>
 
-**Testing & Quality**
+![JavaFX](https://img.shields.io/badge/JavaFX_21-1D4ED8?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![JDBC](https://img.shields.io/badge/JDBC-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117)
+![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL_16-1D4ED8?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![Neon](https://img.shields.io/badge/Neon_Serverless_Postgres-0D1117?style=flat-square&logo=postgresql&logoColor=38BDF8)
+![HikariCP](https://img.shields.io/badge/HikariCP-1D4ED8?style=flat-square)
 
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-0D1117?style=flat-square&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-38BDF8?style=flat-square&logoColor=0D1117)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-1D4ED8?style=flat-square&logo=sonarcloud&logoColor=white)
+<br/>
 
-**Tools & DevOps**
+#### Testing & Static Analysis
+![JUnit 5](https://img.shields.io/badge/JUnit_5-1D4ED8?style=flat-square&logo=junit5&logoColor=FFFFFF)
+![Mockito](https://img.shields.io/badge/Mockito-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117)
+![Maven Surefire](https://img.shields.io/badge/Maven_Surefire-1D4ED8?style=flat-square)
+![JaCoCo](https://img.shields.io/badge/JaCoCo_Coverage-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-1D4ED8?style=flat-square&logo=sonarcloud&logoColor=FFFFFF)
 
+<br/>
+
+#### Build, CI/CD & Environments
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=maven,git,githubactions,docker,linux&theme=dark&perline=5" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=maven,git,githubactions,docker,linux&theme=light&perline=5" />
@@ -105,147 +114,226 @@ class Mateo implements SystemsEngineer {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
+<br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
+</picture>
 
-## 🚀 Featured projects
+## 📦 Featured Projects
 
-### 🏥 [CareStock](https://github.com/puj-course/FIS_2630_1204_G1)
-
-![Project](https://img.shields.io/badge/Academic_milestone-Completed-22C55E?style=flat-square&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-21-1D4ED8?style=flat-square&labelColor=0D1117)
-![JavaFX](https://img.shields.io/badge/JavaFX-21-38BDF8?style=flat-square&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-v1.0.2-2563EB?style=flat-square&logo=docker&logoColor=white)
-
-**CareStock** is a team-developed desktop application for pharmacy inventory management. It combines **multi-pharmacy data segregation**, role-aware sessions and traceability across medicines, hygiene products and maternity products.
-
-| Area | What we built |
-|---|---|
-| **Core application** | Product catalog, inventory and lot management, stock movements, alerts and replenishment workflows |
-| **Architecture** | Layered JavaFX application with MVC-oriented separation; Factory Method, Facade, Proxy and Template Method patterns; C4/UML documentation |
-| **Data & security** | PostgreSQL 16 on Neon, JDBC, HikariCP, BCrypt authentication and pharmacy-scoped queries |
-| **Testing** | JUnit 5, Mockito, Maven Surefire and JaCoCo; over 1,200 test executions reported in the final local verification |
-| **Code quality** | SonarCloud quality analysis, a pre-PR coverage check, and a custom Java source analyzer for LOC, cyclomatic complexity and nesting depth |
-| **Automation** | GitHub Actions for CI, packaging, SQL integration tests on isolated PostgreSQL 16, Docker validation and Telegram notifications |
-| **Distribution** | Versioned Linux/amd64 Docker image published to Docker Hub (`v1.0.2`, `stable`) |
-| **Project status** | **Academic milestone completed — November 2026.** Windows installer workflow remains to be fully validated; not certified for production healthcare use |
-
-<p>
-  <a href="https://github.com/puj-course/FIS_2630_1204_G1"><img src="https://img.shields.io/badge/Source_code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="CareStock source code" /></a>
-  <a href="https://hub.docker.com/r/mateosalazarb/carestock"><img src="https://img.shields.io/badge/Docker_Hub-2563EB?style=for-the-badge&logo=docker&logoColor=white" alt="CareStock Docker Hub repository" /></a>
-</p>
-
-> **Engineering takeaway:** I learned how to diagnose failing pipelines, improve test coverage, inspect static-analysis findings and deliver reproducible application builds—not just how to write features.
+<!-- CARD 1: CareStock -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3><a href="https://github.com/puj-course/FIS_2630_1204_G1">CareStock</a> &mdash; Multi-Pharmacy Inventory &amp; Traceability System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Academic_Milestone-Completed-22C55E?style=flat-square&labelColor=0D1117" alt="Status: Completed" />
+        <img src="https://img.shields.io/badge/Java-21-1D4ED8?style=flat-square&labelColor=0D1117" alt="Java 21" />
+        <img src="https://img.shields.io/badge/JavaFX-21-38BDF8?style=flat-square&labelColor=0D1117" alt="JavaFX 21" />
+        <img src="https://img.shields.io/badge/PostgreSQL-16-1D4ED8?style=flat-square&labelColor=0D1117" alt="PostgreSQL 16" />
+        <img src="https://img.shields.io/badge/Docker_Hub-v1.0.2_%7C_stable-38BDF8?style=flat-square&logo=docker&logoColor=FFFFFF&labelColor=0D1117" alt="Docker v1.0.2" />
+      </p>
+      <p>
+        Team-engineered desktop application designed for multi-pharmacy inventory control, featuring <strong>tenant-scoped data segregation</strong>, role-based access sessions, and lot-level traceability across medicines, hygiene, and maternity product lines.
+      </p>
+      <ul>
+        <li><strong>Domain &amp; Workflows:</strong> Product catalog management, batch/lot tracking, stock movements, threshold alerts, and replenishment operations.</li>
+        <li><strong>Software Architecture:</strong> Layered MVC-oriented JavaFX structure implementing <em>Factory Method, Facade, Proxy,</em> and <em>Template Method</em> patterns, documented with C4 and UML diagrams.</li>
+        <li><strong>Data &amp; Security:</strong> PostgreSQL 16 (Neon) accessed via JDBC with HikariCP connection pooling, BCrypt password hashing, and pharmacy-isolated queries.</li>
+        <li><strong>Verification &amp; Quality Gates:</strong> JUnit 5, Mockito, Maven Surefire, and JaCoCo (over 1,200 test executions in final local verification), paired with SonarCloud analysis, pre-PR coverage checks, and a custom Java AST analyzer measuring LOC, cyclomatic complexity, and nesting depth.</li>
+        <li><strong>CI/CD &amp; Packaging:</strong> Automated GitHub Actions pipelines for builds, isolated PostgreSQL 16 SQL integration tests, Docker image validation (Linux/amd64), and Telegram build notifications.</li>
+        <li><strong>Current Scope &amp; Disclaimer:</strong> Academic milestone completed in <strong>November 2026</strong>. Native Windows installer packaging remains to be validated; this system is an academic artifact and is <strong>not certified for clinical or production healthcare use</strong>.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/puj-course/FIS_2630_1204_G1"><img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="CareStock Source Code" /></a>
+        <a href="https://hub.docker.com/r/mateosalazarb/carestock"><img src="https://img.shields.io/badge/Docker_Hub-1D4ED8?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="CareStock Docker Hub" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🏗️ Architecture at a glance</b> (click to expand)</summary>
+<summary><b>📐 CareStock Layered Architecture Diagram</b> (click to expand)</summary>
 
 <br/>
 
 ```mermaid
 flowchart TB
-    A[JavaFX View]:::ui --> B[Controller]:::ui
-    B --> C[Services / Business logic]:::logic
-    C --> D[Data access · JDBC]:::logic
-    D --> E[(PostgreSQL · Neon)]:::data
-    C -. cache .-> F[(In-memory cache)]:::data
+    subgraph Client_Process["Java 21 Desktop Process (Monolithic Layered Architecture)"]
+        direction TB
+        A["JavaFX 21 Presentation Layer"]:::ui --> B["Application Controllers"]:::ui
+        B --> C["Domain Services & Business Logic"]:::logic
+        C --> D["Persistence Layer · JDBC + HikariCP"]:::logic
+        C -. "Read Optimization" .-> F[("In-Memory Cache")]:::cache
+    end
 
-    classDef ui fill:#1D4ED8,stroke:#93C5FD,color:#ffffff
-    classDef logic fill:#0EA5E9,stroke:#BAE6FD,color:#ffffff
-    classDef data fill:#0F172A,stroke:#38BDF8,color:#ffffff
+    D --> E[("PostgreSQL 16 · Neon")]:::data
+
+    classDef ui fill:#1D4ED8,stroke:#38BDF8,color:#FFFFFF,stroke-width:1.5px
+    classDef logic fill:#0D1117,stroke:#38BDF8,color:#38BDF8,stroke-width:1.5px
+    classDef data fill:#1E293B,stroke:#1D4ED8,color:#FFFFFF,stroke-width:1.5px
+    classDef cache fill:#0D1117,stroke:#94A3B8,color:#E2E8F0,stroke-width:1px
 ```
 
-The UI, controllers, business logic and JDBC persistence run in the same Java desktop application; PostgreSQL is an external data store. The cache helps optimize inventory queries. **CareStock is not a separately deployed REST backend.**
+> [!TIP]
+> **Architectural Boundary:** Presentation, controllers, business rules, and JDBC persistence execute within a single Java desktop process, while PostgreSQL 16 operates as an external relational store. CareStock is a standalone desktop client, not a decoupled REST microservice.
 
 </details>
 
-### 🎮 [VerbQuest](https://github.com/Mateosalazar543/VerbQuest)
+<br/>
 
-A gamified experience to practice English irregular verbs, with adaptive difficulty and responsive design.
+<!-- CARD 2: CORPUS -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Mateosalazar543/CORPUS">CORPUS</a> &mdash; Bilingual Environmental Terminology Search System (EN &harr; ES)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In_Progress_(Sprint_1)-38BDF8?style=flat-square&labelColor=0D1117" alt="Status: In Progress" />
+        <img src="https://img.shields.io/badge/Domain-Bilingual_Terminology-1D4ED8?style=flat-square&labelColor=0D1117" alt="Domain: Bilingual Terminology" />
+        <img src="https://img.shields.io/badge/Methodology-Scrum_(Weekly_Sprints)-0D1117?style=flat-square&color=38BDF8&labelColor=0D1117" alt="Methodology: Scrum" />
+      </p>
+      <p>
+        Client-oriented terminology search platform and browser-assisted lookup tool designed to index parallel English&ndash;Spanish environmental literature with source traceability (DOIs and institutional references).
+      </p>
+      <ul>
+        <li><strong>Sprint 1 Focus:</strong> Corpus data standardization, relational schema design for term-to-context normalization, and automated ingestion pipelines.</li>
+        <li><strong>Planned Capabilities:</strong> Predictive bilingual concordance search, thematic domain filtering, side-panel browser lookup, and curated term proposals.</li>
+      </ul>
+      <!-- TODO: Add final backend/frontend stack badges, architecture diagram, and live deployment link once Sprint 1–4 milestones are completed -->
+      <p>
+        <a href="https://github.com/Mateosalazar543/CORPUS"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="CORPUS Repository" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-| | |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript |
-| **Highlights** | Adaptive quizzes · mobile-first UI · interactive learning |
+<br/>
 
-<a href="https://github.com/Mateosalazar543/VerbQuest">View project →</a>
+<!-- CARD 3: VerbQuest -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Mateosalazar543/VerbQuest">VerbQuest</a> &mdash; Interactive English Verb Training Web App</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Shipped-22C55E?style=flat-square&labelColor=0D1117" alt="Status: Shipped" />
+        <img src="https://img.shields.io/badge/HTML5-1D4ED8?style=flat-square&logo=html5&logoColor=FFFFFF&labelColor=0D1117" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-38BDF8?style=flat-square&logo=css3&logoColor=FFFFFF&labelColor=0D1117" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-1D4ED8?style=flat-square&logo=javascript&logoColor=FFFFFF&labelColor=0D1117" alt="JavaScript" />
+      </p>
+      <p>
+        Browser-based educational application built to reinforce English irregular verb conjugation through structured, progressive practice modules.
+      </p>
+      <ul>
+        <li><strong>Key Features:</strong> Adaptive difficulty progression, immediate feedback loops, and a mobile-first responsive interface.</li>
+      </ul>
+      <!-- TODO: Add live demo URL badge for VerbQuest if you want to link the deployed Render instance directly -->
+      <p>
+        <a href="https://github.com/Mateosalazar543/VerbQuest"><img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="VerbQuest Source Code" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
+<br/>
 
-## 🧩 Engineering principles
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
+</picture>
 
-| Principle | What it means in practice |
-|---|---|
-| 🧼 **Clean code** | Readable names, small functions, no surprises |
-| 🏛️ **Purposeful architecture** | Patterns used because they solve a problem, not for decoration |
-| 🗄️ **Reliable data** | Transactions, constraints and traceable changes |
-| 🧪 **Evidence-based testing** | Unit and integration tests, coverage reports and reproducible validation |
-| 🔄 **Continuous improvement** | CI checks, static analysis and actionable quality reports |
-| 🤖 **AI with judgment** | AI speeds me up; I review, understand and own every decision |
-| 🎨 **Good UX** | Software people actually enjoy using |
+## 🧩 Engineering Principles
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
+| Principle | Practical Application |
+| :--- | :--- |
+| **Maintainable Code** | Explicit naming, cohesive single-responsibility units, and predictable control flow. |
+| **Purposeful Architecture** | Design patterns applied strictly to decouple responsibilities and solve structural problems. |
+| **Data Integrity** | Normalized relational schemas, explicit constraints, connection pooling, and transactional safety. |
+| **Evidence-Based Testing** | Automated unit and integration suites, coverage thresholds, and reproducible CI verification. |
+| **Continuous Quality Gates** | Static code analysis, complexity metrics, and automated checks prior to branch integration. |
+| **Accountable AI Usage** | Leveraging AI tools for speed while auditing every generated line, edge case, and dependency. |
 
-## 📊 GitHub stats
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
+</picture>
+
+## 📊 GitHub Metrics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=3B82F6&text_color=C9D1D9&border_color=1E3A8A&border_radius=12&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=334155&border_color=BFDBFE&border_radius=12&include_all_commits=true" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=3B82F6&text_color=C9D1D9&border_color=1E3A8A&border_radius=12&include_all_commits=true" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&border_color=1D4ED8&border_radius=10&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&bg_color=FFFFFF&title_color=1D4ED8&icon_color=1D4ED8&text_color=1E293B&border_color=CBD5E1&border_radius=10&include_all_commits=true" />
+  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=Mateosalazar543&show_icons=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&border_color=1D4ED8&border_radius=10&include_all_commits=true" width="380" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=1E3A8A&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&bg_color=FFFFFF&title_color=1D4ED8&text_color=334155&border_color=BFDBFE&border_radius=12" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=1E3A8A&border_radius=12" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&border_color=1D4ED8&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&bg_color=FFFFFF&title_color=1D4ED8&text_color=1E293B&border_color=CBD5E1&border_radius=10" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateosalazar543&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&border_color=1D4ED8&border_radius=10" width="380" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&background=0D1117&ring=3B82F6&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border=1E3A8A&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&background=FFFFFF&ring=2563EB&fire=1D4ED8&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1D4ED8&sideLabels=475569&dates=64748B&border=BFDBFE&border_radius=12" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Mateosalazar543&background=0D1117&ring=3B82F6&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border=1E3A8A&border_radius=12" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&border=1D4ED8&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mateosalazar543&background=FFFFFF&ring=1D4ED8&fire=38BDF8&currStreakNum=0D1117&sideNums=0D1117&currStreakLabel=1D4ED8&sideLabels=475569&dates=475569&border=CBD5E1&border_radius=10" />
+  <img alt="Contribution Streak" src="https://streak-stats.demolab.com?user=Mateosalazar543&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&border=1D4ED8&border_radius=10" width="380" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
+</picture>
 
 ## 🗺️ Roadmap
 
-`▰▰▰▰▱▱▱▱` **4 of 8 milestones completed**
+![Progress](https://img.shields.io/badge/Overall_Progress-4_%2F_9_Milestones_Completed-1D4ED8?style=flat-square&labelColor=0D1117)
 
 | Status | Milestone |
-|---|---|
-| ✅ **Done** | Build and ship **VerbQuest** |
-| ✅ **Done** | Apply layered architecture, GoF patterns and transactional data access in **CareStock** |
-| ✅ **Done** | Complete the **CareStock academic milestone** with automated testing, CI, quality analysis and documentation |
-| ✅ **Done** | Containerize CareStock and publish a versioned image to **Docker Hub** |
-| 🔧 **Next** | Finish validating the native **Windows installer** workflow |
-| 🔜 **Next** | Learn **Spring Boot** and design a REST API |
-| 🔜 **Next** | Explore cloud deployment and operational monitoring |
-| 🔜 **Next** | Contribute to open source |
+| :---: | :--- |
+| ![Done](https://img.shields.io/badge/Done-22C55E?style=flat-square&labelColor=0D1117) | Design, build, and ship **VerbQuest** |
+| ![Done](https://img.shields.io/badge/Done-22C55E?style=flat-square&labelColor=0D1117) | Implement layered architecture, GoF patterns, and JDBC persistence in **CareStock** |
+| ![Done](https://img.shields.io/badge/Done-22C55E?style=flat-square&labelColor=0D1117) | Complete the **CareStock** academic milestone with CI pipelines, static analysis, and technical documentation |
+| ![Done](https://img.shields.io/badge/Done-22C55E?style=flat-square&labelColor=0D1117) | Containerize CareStock and publish versioned images (`v1.0.2`, `stable`) to **Docker Hub** |
+| ![In Progress](https://img.shields.io/badge/In_Progress-38BDF8?style=flat-square&labelColor=0D1117) | Deliver **CORPUS** across weekly Scrum sprints (data ingestion, search portal, and browser extension) |
+| ![Next](https://img.shields.io/badge/Next-1D4ED8?style=flat-square&labelColor=0D1117) | Complete validation of the native Windows installer workflow for CareStock |
+| ![Next](https://img.shields.io/badge/Next-1D4ED8?style=flat-square&labelColor=0D1117) | Build backend services with **Spring Boot** and RESTful API standards |
+| ![Next](https://img.shields.io/badge/Next-1D4ED8?style=flat-square&labelColor=0D1117) | Deepen cloud deployment and production observability practices |
+| ![Next](https://img.shields.io/badge/Next-1D4ED8?style=flat-square&labelColor=0D1117) | Contribute to open-source tooling |
 
-> Academic completion is a milestone, not the end of the product's evolution.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
+</picture>
 
-## 📫 Let's connect
+## 📫 Connect
 
 <div align="center">
 
-<a href="https://github.com/Mateosalazar543"><img src="https://img.shields.io/badge/GitHub-Mateosalazar543-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- Add your own links when ready, then remove the comment markers:
-<a href="https://www.linkedin.com/in/YOUR-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Write_me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Mateosalazar543"><img src="https://img.shields.io/badge/GitHub-Mateosalazar543-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" /></a>
+<a href="https://hub.docker.com/u/mateosalazarb"><img src="https://img.shields.io/badge/Docker_Hub-mateosalazarb-1D4ED8?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker Hub Profile" /></a>
+<!-- TODO: Uncomment and complete when ready to publish professional contact links:
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
 -->
 
 <br/><br/>
 
-*Thanks for visiting! Keep learning. Keep building. 🚀*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0A1628&height=90&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,45:1D4ED8,100:0D1117&height=95&section=footer" alt="" width="100%" />
 
 </div>
