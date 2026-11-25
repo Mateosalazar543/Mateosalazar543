@@ -2,12 +2,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1D4ED8,100:38BDF8&height=190&section=header&text=Mateo%20Salazar%20Bogot%C3%A1&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Systems%20Engineering%20%C2%B7%20Backend%20%26%20Software%20Architecture&descColor=E2E8F0&descSize=17&descAlignY=66&animation=fadeIn" alt="Mateo Salazar Bogotá — Systems Engineering, Backend & Software Architecture" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:38BDF8&height=175&section=header&text=Mateo%20Salazar%20Bogota&fontColor=FFFFFF&fontSize=50&fontAlignY=48&animation=fadeIn" alt="Mateo Salazar Bogota" width="100%" />
+
+**Systems Engineering Student · Backend Engineering · Software Architecture**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=540&height=36&lines=Backend+Systems+%C2%B7+Layered+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Academic+Milestone+Completed+(Java+21);CORPUS%3A+Bilingual+Terminology+Search+System+(In+Progress);Bogot%C3%A1%2C+Colombia+%C2%B7+Pontificia+Universidad+Javeriana" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=1D4ED8&center=true&vCenter=true&width=540&height=36&lines=Backend+Systems+%C2%B7+Layered+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Academic+Milestone+Completed+(Java+21);CORPUS%3A+Bilingual+Terminology+Search+System+(In+Progress);Bogot%C3%A1%2C+Colombia+%C2%B7+Pontificia+Universidad+Javeriana" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=540&height=36&lines=Backend+Systems+%C2%B7+Layered+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Academic+Milestone+Completed+(Java+21);CORPUS%3A+Bilingual+Terminology+Search+System+(In+Progress);Bogot%C3%A1%2C+Colombia+%C2%B7+Pontificia+Universidad+Javeriana" alt="Technical focus areas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=480&height=36&lines=Backend+%C2%B7+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Java+21+%C2%B7+PostgreSQL+%C2%B7+CI;CORPUS%3A+Bilingual+Terminology+Search;Bogot%C3%A1%2C+Colombia+%C2%B7+Javeriana" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=900&color=1D4ED8&center=true&vCenter=true&width=480&height=36&lines=Backend+%C2%B7+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Java+21+%C2%B7+PostgreSQL+%C2%B7+CI;CORPUS%3A+Bilingual+Terminology+Search;Bogot%C3%A1%2C+Colombia+%C2%B7+Javeriana" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=480&height=36&lines=Backend+%C2%B7+Architecture+%C2%B7+Data+Integrity;CareStock%3A+Java+21+%C2%B7+PostgreSQL+%C2%B7+CI;CORPUS%3A+Bilingual+Terminology+Search;Bogot%C3%A1%2C+Colombia+%C2%B7+Javeriana" alt="Technical focus areas" />
 </picture>
 
 <br/>
@@ -20,23 +22,19 @@
 <br/>
 
 <!-- Quick Navigation Bar -->
-<a href="#-about-me"><img src="https://img.shields.io/badge/About-0D1117?style=for-the-badge" alt="About" /></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-1E293B?style=for-the-badge" alt="About" /></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-1D4ED8?style=for-the-badge" alt="Tech Stack" /></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge" alt="Projects" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1E293B?style=for-the-badge" alt="Projects" /></a>
 <a href="#-engineering-principles"><img src="https://img.shields.io/badge/Principles-1D4ED8?style=for-the-badge" alt="Principles" /></a>
-<a href="#-github-metrics"><img src="https://img.shields.io/badge/Metrics-0D1117?style=for-the-badge" alt="Metrics" /></a>
+<a href="#-github-metrics"><img src="https://img.shields.io/badge/Metrics-1E293B?style=for-the-badge" alt="Metrics" /></a>
 <a href="#-roadmap"><img src="https://img.shields.io/badge/Roadmap-1D4ED8?style=for-the-badge" alt="Roadmap" /></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/Connect-0D1117?style=for-the-badge" alt="Connect" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/Connect-1E293B?style=for-the-badge" alt="Connect" /></a>
 
 </div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
 ## 🏛️ About Me
 
@@ -60,11 +58,7 @@ I integrate **AI as an engineering copilot** to accelerate prototyping and analy
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
 ## ⚙️ Tech Stack
 
@@ -116,11 +110,7 @@ I integrate **AI as an engineering copilot** to accelerate prototyping and analy
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
 ## 📦 Featured Projects
 
@@ -148,7 +138,7 @@ I integrate **AI as an engineering copilot** to accelerate prototyping and analy
         <li><strong>Current Scope &amp; Disclaimer:</strong> Academic milestone completed in <strong>November 2026</strong>. Native Windows installer packaging remains to be validated; this system is an academic artifact and is <strong>not certified for clinical or production healthcare use</strong>.</li>
       </ul>
       <p>
-        <a href="https://github.com/puj-course/FIS_2630_1204_G1"><img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="CareStock Source Code" /></a>
+        <a href="https://github.com/puj-course/FIS_2630_1204_G1"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="CareStock Source Code" /></a>
         <a href="https://hub.docker.com/r/mateosalazarb/carestock"><img src="https://img.shields.io/badge/Docker_Hub-1D4ED8?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="CareStock Docker Hub" /></a>
       </p>
     </td>
@@ -204,7 +194,7 @@ flowchart TB
       </ul>
       <!-- TODO: Add final backend/frontend stack badges, architecture diagram, and live deployment link once Sprint 1–4 milestones are completed -->
       <p>
-        <a href="https://github.com/Mateosalazar543/CORPUS"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="CORPUS Repository" /></a>
+        <a href="https://github.com/Mateosalazar543/CORPUS"><img src="https://img.shields.io/badge/Repository-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="CORPUS Repository" /></a>
       </p>
     </td>
   </tr>
@@ -231,7 +221,7 @@ flowchart TB
       </ul>
       <!-- TODO: Add live demo URL badge for VerbQuest if you want to link the deployed Render instance directly -->
       <p>
-        <a href="https://github.com/Mateosalazar543/VerbQuest"><img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="VerbQuest Source Code" /></a>
+        <a href="https://github.com/Mateosalazar543/VerbQuest"><img src="https://img.shields.io/badge/Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="VerbQuest Source Code" /></a>
       </p>
     </td>
   </tr>
@@ -239,11 +229,7 @@ flowchart TB
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
 ## 🧩 Engineering Principles
 
@@ -258,11 +244,7 @@ flowchart TB
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
 ## 📊 GitHub Metrics
 
@@ -291,11 +273,7 @@ flowchart TB
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
 ## 🗺️ Roadmap
 
@@ -315,25 +293,21 @@ flowchart TB
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:CBD5E1,50:1D4ED8,100:38BDF8&height=2" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:38BDF8&height=2" alt="" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,100:38BDF8&height=3" alt="" width="100%" />
 
 ## 📫 Connect
 
 <div align="center">
 
-<a href="https://github.com/Mateosalazar543"><img src="https://img.shields.io/badge/GitHub-Mateosalazar543-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" /></a>
+<a href="https://github.com/Mateosalazar543"><img src="https://img.shields.io/badge/GitHub-Mateosalazar543-1E293B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub Profile" /></a>
 <a href="https://hub.docker.com/u/mateosalazarb"><img src="https://img.shields.io/badge/Docker_Hub-mateosalazarb-1D4ED8?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker Hub Profile" /></a>
 <!-- TODO: Uncomment and complete when ready to publish professional contact links:
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
+<a href="mailto:YOUR-EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-Contact-1E293B?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
 -->
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,45:1D4ED8,100:0D1117&height=95&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0D1117&height=90&section=footer" alt="" width="100%" />
 
 </div>
