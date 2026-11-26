@@ -240,7 +240,7 @@ I integrate artificial intelligence as an engineering copilot to accelerate prot
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Mateosalazar543/VerbQuest">
-        <img src="./assets/projects/verbquest.png" alt="VerbQuest Logo" width="105" />
+        <img src="./assets/projects/verbquest.svg" alt="VerbQuest Logo" width="105" />
       </a>
       <br/><br/>
       <strong>VerbQuest</strong>
@@ -729,7 +729,7 @@ The diagram describes the intended incremental delivery workflow. Deployment con
   <tr>
     <td width="125" align="center">
       <a href="https://github.com/Mateosalazar543/VerbQuest">
-        <img src="./assets/projects/verbquest.png" width="105" alt="VerbQuest Logo" />
+        <img src="./assets/projects/verbquest.svg" width="105" alt="VerbQuest Logo" />
       </a>
     </td>
     <td>
@@ -908,7 +908,7 @@ I aim to incorporate measurable quality controls throughout implementation, refa
       <img src="https://img.shields.io/badge/Coverage.py-16A34A?style=flat-square" alt="Coverage" />
     </td>
     <td align="center">
-      <img src="./assets/projects/verbquest.png" width="65" alt="VerbQuest Logo" />
+      <img src="./assets/projects/verbquest.svg" width="65" alt="VerbQuest Logo" />
       <h3>VerbQuest</h3>
       <strong>Automated</strong>
       <br/>
